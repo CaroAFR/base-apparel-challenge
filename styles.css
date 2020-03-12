@@ -96,6 +96,9 @@ input:invalid{
   }
   h1{
     text-align: center;
+    font-weight: 600;
+    font-size: 3rem;
+    letter-spacing: 3px;
   }
   .text{
     text-align: center;
@@ -103,6 +106,7 @@ input:invalid{
   .hero-mobile{
     width: 100%;
     height: auto;
-
 }
+
+
 }

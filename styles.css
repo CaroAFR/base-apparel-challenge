@@ -100,5 +100,9 @@ input:invalid{
   .text{
     text-align: center;
   }
+  .hero-mobile{
+    width: 100%;
+    height: auto;
 
+}
 }

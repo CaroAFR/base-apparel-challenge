@@ -92,7 +92,7 @@ input:invalid{
   }
   .right{
     order: 1;
-    margin: 25% auto 0;
+    margin: 25% 0 auto 0;
   }
   h1{
     text-align: center;

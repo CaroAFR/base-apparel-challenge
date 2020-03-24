@@ -18,6 +18,12 @@ h1 {
   line-height: 5rem;
   margin-top: 25%;
 }
+@media (max-width:900px) {
+  h1 {
+    font-size: 3.5rem;
+    letter-spacing: 10px;
+  }
+}
 
 .title{
   font-weight: 300;
@@ -77,7 +83,7 @@ h1 {
 
 /* Image */
 .hero-mobile{
-display: none;
+  display: none;
 }
 .right{
   background-image: url(images/hero-desktop.jpg);
